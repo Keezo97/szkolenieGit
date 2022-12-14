@@ -2,11 +2,11 @@
 
 Jest to repozytorium szkoleniowe
 
-##Instalacja
+## Instalacja
 
-'''bash 
+```bash 
 git remote add origin git@github.com:Keezo97/szkolenieGit.git
-'''
+```
 
-##Licencja
+## Licencja
 [MIT](htttps://choosealicense.com/licenses/mit/)
